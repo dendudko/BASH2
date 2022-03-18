@@ -16,5 +16,5 @@ else
 fi
 </code>
 </pre>
-## Результат
+## Результат работы
 <img src="result.png"></img>
